@@ -584,5 +584,3 @@ All screenshots are saved in the `screenshots/` folder:
 
 ---
 
-**End of Report**
-

@@ -2,11 +2,21 @@
 ## Heart Disease Prediction: End-to-End ML Pipeline
 
 **Course**: MLOps (S1-25_AIMLCZG523)  
-**Institution**: BITS Pilani  
-**Student Name**: Sk Shahrukh Saba  
-**Student ID**: [Your ID]  
-**Date**: December 2025  
+**Institution**: BITS Pilani
+**Date**: 5 January 2026  
 **GitHub Repository**: https://github.com/shahrukhsaba/mlops
+
+## Group No 122
+
+## Group Member Details:
+|S.No|   Group Member Names        |      BITS Email ID                        | Contribution in %  |
+|----|-----------------------------|-------------------------------------------|--------------------|
+|1   | **SK SHAHRUKH SABA**        |     2024aa05401@wilp.bits-pilani.ac.in    | 100%               |
+|2   | **SANKHA CHAKRABORTY**      |     2024AA05393@wilp.bits-pilani.ac.in    | 100%               |
+|3   | **NEELASHA ROY**            |     2024aa05698@wilp.bits-pilani.ac.in    | 100%               |
+|4   | **ARUNAVA DUTTA**           |     2024aa05374@wilp.bits-pilani.ac.in    | 100%               |
+|5   | **BHUPENDRA KUMAR PAl**     |     2024aa05462@wilp.bits-pilani.ac.in    | 100%               |
+
 
 ---
 
